@@ -1,0 +1,6 @@
+"é"	2
+"a"	2
+"e"	1
+"elástica"	1
+"nuvem"	2
+"poderosa"	1
