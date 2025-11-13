@@ -60,7 +60,7 @@ plt.show()
 
 # === 8. Mostrar os dados no terminal ===
 print("\n🏆 Top 10 Locais com Maior Salário Médio:")
-print(top10[[local, "Salário (R$)"]])
+print(top10[[local, col_salario]])
 
 print("\n⚠️ Top 10 Locais com Menor Salário Médio:")
-print(bottom10[[local, "Salário (R$)"]])
+print(bottom10[[local, col_salario]])
