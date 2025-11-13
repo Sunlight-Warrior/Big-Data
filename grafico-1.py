@@ -52,7 +52,7 @@ for bar in bars:
     percentual = (valor / max_val) * 100
     plt.text(valor + (max_val * 0.01),
              bar.get_y() + bar.get_height() / 2,
-             f"R${valor:,.0f} ({percentual:.0f}%)",
+             f"R${valor:,.0f}",
              va="center", fontsize=9)
 
 plt.tight_layout()
